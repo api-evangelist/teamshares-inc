@@ -1,5 +1,5 @@
 aid: teamshares-inc
-name: Teamshares Inc
+name: Teamshares
 description: 'Teamshares is a tech-enabled acquirer of small businesses that offers a permanent home for
   companies whose owners are retiring. It programmatically buys profitable companies with $0.5-5 million
   of EBITDA from retiring owners, integrates them onto the Teamshares operating platform of financial products,
@@ -46,7 +46,7 @@ tags:
 - Employee Ownership
 - Small Business
 - Acquisition
-- Financial-Services
+- Financial Services
 tags_raw:
 - Company
 - Fintech
@@ -54,6 +54,7 @@ tags_raw:
 - Small Business
 - Acquisitions
 - Financial Services
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -78,3 +79,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Teamshares Inc
